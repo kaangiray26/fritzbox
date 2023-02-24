@@ -1,0 +1,9 @@
+FRITZ!Box 7530 - Namecheap DDNS
+-------------------------------
+
+DynDNS:
+    DynDNS_Provider: User-defined
+    Update_URL: https://dynamicdns.park-your-domain.com/update?host=SUBDOMAIN&domain=<domain>&password=<pass>&ip=<ipaddr>
+    Domain_name: DOMAIN_NAME
+    Username: USERNAME
+    Password: PASSWORD
